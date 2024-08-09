@@ -15,7 +15,7 @@ const TechShareSummary: React.FC = () => {
 
   return (
     <div className="p-4 max-w-4xl mx-auto">
-      <h1 className="text-3xl font-bold text-center mb-6">シェアリングエコノミー ビジネスプラン サマリー</h1>
+      <h1 className="text-3xl font-bold text-center mb-6">株式会社花筏</h1>
       
       <Tabs value={activeTab} onValueChange={setActiveTab}>
         <TabsList className="grid w-full grid-cols-3">
